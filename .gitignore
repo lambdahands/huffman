@@ -1,3 +1,8 @@
+# Example files
+
+example/txt/lorem_ipsum_compressed
+example/Main
+
 # trivial gitignore file
 .cabal-sandbox/
 cabal.sandbox.config
@@ -19,7 +24,6 @@ dist
 /cabal-install/dist/
 /cabal-install/Setup
 
-
 # editor temp files
 
 *#
@@ -33,7 +37,6 @@ Cabal/GNUmakefile
 Cabal/dist-boot/
 Cabal/dist-install/
 Cabal/ghc.mk
-
 
 # TAGS files
 TAGS
